@@ -1,13 +1,13 @@
-var a,b 
+var a,b
 
 function add () {
-  a,b a+b   
+  a,b a+b
 }
 
-function subtract () {  
+function subtract () {
 }
 
-function multiply () { 
+function multiply () {
 }
 
 function divide () {
@@ -16,5 +16,5 @@ function divide () {
 function makeInt (n) {
 }
 
-function preserveDecimal (n) { 
+function preserveDecimal (n) {
 }
