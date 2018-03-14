@@ -16,11 +16,11 @@ function divide () {
   (a/b)
 }
 
-function inc() { 
+function inc() {
   a++
 }
 
-function dec() { 
+function dec() {
   a--
 }
 
